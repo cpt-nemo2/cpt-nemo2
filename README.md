@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Backend development and Object-oriented Programming languages.
 - 💡 Strong interest in cybersecurity, problem-solving and open-source contributions.
 - 💞️ I’m looking to collaborate on react and java projects
-- 📫 How to reach me via email: ndiravic@gmail.com
+- 📫 How to reach me via email: victorndira4@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: the dot on the top of j and i is called a tittle and now you are a little bit wiser than yesterday.
 
